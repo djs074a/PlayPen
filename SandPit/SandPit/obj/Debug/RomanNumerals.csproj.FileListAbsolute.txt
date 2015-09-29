@@ -1,0 +1,7 @@
+c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\obj\Debug\RomanNumerals.csprojResolveAssemblyReference.cache
+c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\bin\Debug\SandPit.dll
+c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\bin\Debug\SandPit.pdb
+c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\bin\Debug\nunit.framework.dll
+c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\bin\Debug\nunit.framework.xml
+c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\obj\Debug\SandPit.dll
+c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\obj\Debug\SandPit.pdb
