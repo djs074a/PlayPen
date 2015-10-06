@@ -5,3 +5,10 @@ c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\bin\Debu
 c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\bin\Debug\nunit.framework.xml
 c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\obj\Debug\SandPit.dll
 c:\users\dspencer\documents\visual studio 2012\Projects\SandPit\SandPit\obj\Debug\SandPit.pdb
+C:\Users\dspencer\Documents\GitHub\PlayPen\SandPit\SandPit\bin\Debug\SandPit.dll
+C:\Users\dspencer\Documents\GitHub\PlayPen\SandPit\SandPit\bin\Debug\SandPit.pdb
+C:\Users\dspencer\Documents\GitHub\PlayPen\SandPit\SandPit\bin\Debug\nunit.framework.dll
+C:\Users\dspencer\Documents\GitHub\PlayPen\SandPit\SandPit\bin\Debug\nunit.framework.xml
+C:\Users\dspencer\Documents\GitHub\PlayPen\SandPit\SandPit\obj\Debug\RomanNumerals.csprojResolveAssemblyReference.cache
+C:\Users\dspencer\Documents\GitHub\PlayPen\SandPit\SandPit\obj\Debug\SandPit.dll
+C:\Users\dspencer\Documents\GitHub\PlayPen\SandPit\SandPit\obj\Debug\SandPit.pdb
